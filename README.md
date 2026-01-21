@@ -31,11 +31,11 @@ By presenting these metrics in an interactive format with time, country, and cus
 
 ## Insights & Observations
 
-1️⃣ Strong Digital Adoption
+1. Strong Digital Adoption
 
 With 51% of total revenue coming from online channels and over 96% of customers active online, the webstore plays a critical role in the business’s revenue engine.
 
-2️⃣ High Conversion Efficiency
+2. High Conversion Efficiency
 
 A conversion rate of 96.88% indicates that logged in customers are highly intent driven, suggesting:
 
@@ -45,15 +45,15 @@ Strong account-based purchasing behavior
 
 Well optimized checkout flows
 
-3️⃣ Loyal Customer Base
+3. Loyal Customer Base
 
 A repeat online order rate of 76.71% highlights strong customer retention and satisfaction, which is essential because lifetime value matters more than one time purchases.
 
-4️⃣ Fast Customer Activation
+4. Fast Customer Activation
 
 New customers place their first online order within 13 days on average, suggesting efficient onboarding, account setup, and early value realization.
 
-5️⃣ Consistent Revenue Growth
+5. Consistent Revenue Growth
 
 Weekly revenue trends show steady growth with periods of acceleration, allowing stakeholders to:
 
@@ -72,9 +72,9 @@ Compare online vs offline performance
 | Online revenue shows sustained growth over time                 | Weekly revenue trends increase across the period | Continue monitoring growth patterns and prepare for demand peaks           |
 | Online channel contributes a significant share of total revenue | Online Share of Revenue exceeds 50%              | Prioritize optimization of the online channel as a key revenue driver      |
 | Customer engagement is very high                                | Customers Active Online above 90%                | Use high engagement to introduce personalized offers and upsell strategies |
-| Strong repeat purchasing behavior                               | Repeat Online Order Rate above 70%               | Strengthen retention through loyalty incentives and repeat-order campaigns |
+| Strong repeat purchasing behavior                               | Repeat Online Order Rate above 70%               | Strengthen retention through loyalty incentives and repeat order campaigns |
 | Conversion rate is extremely high                               | Conversion Rate close to 97%                     | Focus efforts on increasing order value rather than acquisition            |
-| Customers convert relatively quickly after onboarding           | Avg Time to First Online Order ~13 days          | Improve onboarding journeys to reduce time-to-first-purchase further       |
+| Customers convert relatively quickly after onboarding           | Avg Time to First Online Order 13 days          | Improve onboarding journeys to reduce time-to-first-purchase further       |
 | Revenue fluctuates week to week                                 | Noticeable weekly revenue volatility             | Analyze campaign timing and operational factors impacting demand           |
 
 ---
