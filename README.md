@@ -37,21 +37,21 @@ With 51% of total revenue coming from online channels and over 96% of customers 
 
 2️⃣ High Conversion Efficiency
 
-A conversion rate of 96.88% indicates that logged-in customers are highly intent-driven, suggesting:
+A conversion rate of 96.88% indicates that logged in customers are highly intent driven, suggesting:
 
 Effective UX
 
-Strong account-based B2B purchasing behavior
+Strong account-based purchasing behavior
 
-Well-optimized checkout flows
+Well optimized checkout flows
 
 3️⃣ Loyal Customer Base
 
-A repeat online order rate of 76.71% highlights strong customer retention and satisfaction, which is essential for B2B commerce where lifetime value matters more than one-time purchases.
+A repeat online order rate of 76.71% highlights strong customer retention and satisfaction, which is essential because lifetime value matters more than one time purchases.
 
 4️⃣ Fast Customer Activation
 
-New customers place their first online order within ~13 days on average, suggesting efficient onboarding, account setup, and early value realization.
+New customers place their first online order within 13 days on average, suggesting efficient onboarding, account setup, and early value realization.
 
 5️⃣ Consistent Revenue Growth
 
@@ -59,7 +59,7 @@ Weekly revenue trends show steady growth with periods of acceleration, allowing 
 
 Spot seasonality
 
-Identify high-performing weeks
+Identify high performing weeks
 
 Compare online vs offline performance
 
@@ -86,11 +86,11 @@ Compare online vs offline performance
 
 - FactLogings : (LogingID, CustomerID, LogingDate)
 
-- FactOrders: Order-level data (Order ID, Order Date, Revenue, Channel, Customer ID)
+- FactOrders: (Order ID, Order Date, Revenue, Channel, Customer ID)
 
-- DimCustomer: Customer attributes (Customer ID, Account Creation Date, Country, Customer Type)
+- DimCustomer: (Customer ID, Account Creation Date, Country, Customer Type)
 
-- Date Dimension: Enables time intelligence (week, month, year)
+- Date Dimension: (week, month, year)
 
 Star schema modeling was used to ensure:
 
